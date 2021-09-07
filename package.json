@@ -1,0 +1,26 @@
+{
+  "name": "shopify-api",
+  "version": "1.0.0",
+  "description": "Shopify Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "apis",
+    "shopify"
+  ],
+  "author": "Pardeep",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.1",
+    "await": "^0.2.6",
+    "fetch": "^1.1.0",
+    "flat": "^5.0.2",
+    "json2csv": "^5.0.6",
+    "limiter": "^2.1.0",
+    "node-fetch": "^3.0.0",
+    "request": "^2.88.2",
+    "underscore": "^1.13.1"
+  }
+}
