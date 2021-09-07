@@ -14,6 +14,7 @@ To test this, Please do the following:
 - Clone the project 
 - npm i 
 - node index.js
+- The csv file will be generated in the root folder
 
 
 
